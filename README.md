@@ -1,4 +1,4 @@
-# TitanicSurvival-NeuralNetwork-
+# TitanicSurvival-NeuralNetwork
 
 
 The aim of the project is to make a prediction on titanic survivors. 
