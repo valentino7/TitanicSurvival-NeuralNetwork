@@ -24,9 +24,9 @@ If you want to start the project with a notebook you have to use titanic.ipynb.
 ### Work
 
 The prediction is made with a Neural Network on Keras Backend. The steps of the algorithm are: 
--preprocessing data (replace null value with mean or frequency, transformation of categorical features, drop column, standardization
--feature selection (PCA)
--Tuning of parameter with grid search parameter(number of layers,number of neurons,batch size, epochs,dropout,optimizer.
+- preprocessing data (replace null value with mean or frequency, transformation of categorical features, drop column, standardization
+- feature selection (PCA)
+- Tuning of parameter with grid search parameter(number of layers,number of neurons,batch size, epochs,dropout,optimizer.
 
 ## Contributing
 
