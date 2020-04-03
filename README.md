@@ -21,6 +21,12 @@ If you want to start the project with a notebook you have to use titanic.ipynb.
 -pip
 ```
 
+### Work
+
+The prediction is made with a Neural Network on Keras Backend. The steps of the algorithm are: 
+-preprocessing data (replace null value with mean or frequency, transformation of categorical features, drop column, standardization
+-feature selection (PCA)
+-Tuning of parameter with grid search parameter(number of layers,number of neurons,batch size, epochs,dropout,optimizer.
 
 ## Contributing
 
@@ -32,7 +38,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Valentino Perrone** - *Initial work* - [PurpleBooth](https://github.com/valentino7)
+* **Valentino Perrone** - *Initial work* - [Repositories](https://github.com/valentino7)
 
 
 
