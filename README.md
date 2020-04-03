@@ -1,6 +1,12 @@
 # TitanicSurvival-NeuralNetwork
 
-One Paragraph of project description goes here
+This is the legendary Titanic ML competition.
+
+The competition is simple: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
+
+Competition link:
+https://www.kaggle.com/c/titanic?rvi=1
+
 
 ## Getting Started
 
@@ -8,10 +14,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
 
 ```
-Give examples
+-python 3.6
+-pip
+
 ```
 
 ### Installing
@@ -76,13 +83,4 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
 
